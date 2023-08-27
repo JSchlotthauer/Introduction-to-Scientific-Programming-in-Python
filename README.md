@@ -4,7 +4,7 @@ Final project belonging to the master course "Introduction to Scientific Program
 ABOUT THE COURSE:
 Introduction to the Python programming language, with a focus on practical tools and techniques for scientific data analysis.
 Some of the topics covered in the classes were as follows:
-- Data Visualization
+- Data visualization
 - Working with numerical data
 - Working with tabular data
 - Image analysis
